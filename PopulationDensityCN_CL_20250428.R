@@ -1,4 +1,7 @@
 # Population density plot for Cousin - Chuen 28/04/2025
+library(tidyverse)
+library(ggthemes)
+
 
 PopDenCN <- read_tsv("PopDenCN.tsv") # update PopDenCN.tsv and make sure path is correct
 
