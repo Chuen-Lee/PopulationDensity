@@ -8,3 +8,9 @@ Step 4. Installing the libraries
 Step 5. Run all lines.  
 
 ## All islands
+Step 1. Download and update AllPopDen.csv and popdenforgeompoint.csv for all fieldseasons until most recent.    
+  AllPopDen = all population estimates (including extrapolated)  
+  popdenforgeompoint = all actual fiedlwork based population estimates  
+Step 2. Open R script in R studio and update filepaths    
+Step 4. Installing the libraries  
+Step 5. Run all lines.  
