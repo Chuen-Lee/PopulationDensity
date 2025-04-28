@@ -1,6 +1,6 @@
 # Population density plot for Cousin - Chuen 28/04/2025
 
-PopDenCN <- read_tsv("~/Documents/PhD/R_analysis/Weather/PopDenCN.tsv") # update PopDenCN.tsv and make sure path is correct
+PopDenCN <- read_tsv("PopDenCN.tsv") # update PopDenCN.tsv and make sure path is correct
 
 PopDenCNplot <- ggplot(PopDenCN, aes(PEnd,IndependentBirds)) + # x = End of FP, y=Independent birds
   geom_point(aes(colour=Pcolor)) + # colour by the most recent season
