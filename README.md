@@ -15,3 +15,5 @@ Step 1. Download and update AllPopDen.csv and popdenforgeompoint.csv for all fie
 Step 2. Open R script in R studio and update filepaths    
 Step 3. Install and load libraries  
 Step 4. Run all lines.  
+
+/SeychellesWarblerProject.png
